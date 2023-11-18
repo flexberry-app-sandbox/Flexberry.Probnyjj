@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "_probnyjj",
+  "applicationTitle": "_probnyjj",
+  "items": [
+    {
+      "link": null,
+      "menuName": "probnyjj",
+      "caption": "_probnyjj",
+      "title": "_probnyjj",
+      "children": [
+        {
+          "link": "i-i-s-probnyjj-город-l",
+          "menuName": null,
+          "caption": "Город",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-probnyjj-здание-l",
+          "menuName": null,
+          "caption": "Здание",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
